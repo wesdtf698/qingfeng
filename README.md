@@ -1,4 +1,4 @@
-<图片 宽度="1037" 高度="1037" 替代=“mm_reward_qrcode_1786567756779” src="https://github.com/user-attachments/assets/be7059c4-b24e-4e18-a4b3-126175141dfd" />QingFeng · Android 本地逆向 MCP 网关
+安卓本地逆向 MCP 网关
 
 # 清风 QingFeng
 
@@ -15,8 +15,10 @@
 - Cloudflared 内网穿透
 
 许可证：GPL-3.0
-作者：白时（QQ：3774724272）
+作者：白时（QQ：3774724272)
 
-QQ主群:(1103502649)
+QQ群:(1103502649)
 
-![上传mm_reward_qrcode_1786567756779.png......]()
+![mm_reward_qrcode_1786567756779.png......]()
+
+<图片 宽度="1037" 高度="1037" 替代=“mm_reward_qrcode_1786567756779” src="https://github.com/user-attachments/assets/89a1720c-40b3-4dc2-99d7-a168ad298531" />
