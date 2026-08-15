@@ -21,4 +21,6 @@ QQ群:(1103502649)
 
 ![mm_reward_qrcode_1786567756779.png......]()
 
-<图片 宽度="1037" 高度="1037" 替代=“mm_reward_qrcode_1786567756779” src="https://github.com/user-attachments/assets/89a1720c-40b3-4dc2-99d7-a168ad298531" />
+![上传Screenshot_20260816_064233.jpg......](https://github.com/user-attachments/assets/328fc6b5-2b2a-4950-9caa-350c8616e151)
+
+![mm_reward_qrcode_1786567756779](https://github.com/user-attachments/assets/89a1720c-40b3-4dc2-99d7-a168ad298531)
